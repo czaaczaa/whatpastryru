@@ -1,0 +1,147 @@
+.button1{
+    text-align: center;
+    display: block;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: #FFC0CB;
+    color: white;
+    font-size: 40px;
+}
+.button2{
+    text-align: center;
+    display: block;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: #FFB6C1;
+    color: white;
+    font-size: 40px;
+}
+.button3{
+    text-align: center;
+    display: block;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: #F4BADB;
+    color: white;
+    font-size: 40px;
+}
+.button4{
+    text-align: center;
+    display: block;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background-color: #F0A2CE;
+    color: white;
+    font-size: 40px;
+}
+.yesButton{
+    text-align: center;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 30%;
+    top: 80%;
+    width: 250px;
+    height:100px;
+}
+.noButton{
+    text-align: center;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    width:250px;
+    height:100px;
+    left: 50%;
+    top: 80%;
+}
+section{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+#questionPages {
+    background-color: #C5345F;
+    text-align: center;
+}
+questionPage {
+    background-color: #C5345F;
+    text-align: center;
+}
+
+.homepage{
+    background-color: #ffc0cb;
+ }
+ .topRow{
+    color: red;
+    position: absolute;
+    left:52%;
+    top:25%;
+    transform: translate(-50%, -50%);
+    font-size:50px;
+    white-space: nowrap;
+ }
+ .botRow{
+    color: red;
+    position: absolute;
+    left:51%;
+    top:32%;
+    transform: translate(-50%, -50%);
+    font-size:50px;
+    white-space: nowrap;
+ }
+ .homebutton{
+   
+  
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+       
+        text-align: center;
+        display: block;
+        border-radius: 16px;
+        height: 100px;
+        width: 200px;
+        background-color: #F0A2CE;
+        color: white;
+   
+   
+   
+ }
+ 
+ 
+ .image-container{
+    position:absolute;
+    left: 43%; 
+    top: 25%;
+   
+ }
+ 
+ 
+ 
